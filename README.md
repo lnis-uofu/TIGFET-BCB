@@ -16,13 +16,12 @@ adjusted to assign a different color to every different device category.
 We assigned TIGFET the color of magenta to make it standout.
 
 To get comparisons of multiple circuits, type
->> BCB
+-BCB
 After running 'BCB' routine, you have further options:
 To get a plot and to output files of throughtput and power, type
->> throughPower
+-throughPower
 To output files with areas of circuits, type
->> areaNRI
-To get universal characteristics of devices (like charge and
-resistance)
+-areaNRI
+To get universal characteristics of devices (like charge and resistance)
 To get transistors' on- and off- current and volatges, type
->> TransCurrent
+-TransCurrent
